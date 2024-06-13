@@ -1,0 +1,22 @@
+Membership Page
+Become a Member
+Choose a membership plan and receive tokens each month.
+Membership Benefits
+Access to our platform
+Large Language Model (LLM)
+2D Schematic Generation
+3D Game Engine Simulation
+Monthly Tokens
+Subscribe $20/month - 2000 tokens
+Subscribe $50/month - 7000 tokens
+Subscribe $100/month - 20000 tokens
+Join us for our stakeholders meeting to collaborate and develop the technology the community needs. Contact us at
+connect@openqquantify.com
+© 2024 OpenQQuantify
+Privacy Policy
+|
+Terms and Conditions
+OpenQQuantify is registered as a Canadian Federally Incorporated Business. (ID: 14839323 Canada Inc.). Donations are not tax-deductible.
+If you have any questions, please contact us at
+connect@openqquantify.com
+We use industry-standard SSL encryption to protect your information. Your payment will be processed securely by Stripe.

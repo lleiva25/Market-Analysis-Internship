@@ -1,0 +1,72 @@
+OpenQQuantify About Us
+OpenQQuantify
+About Us
+We started out 2 years ago at a Hackathon in Berkeley, our team did really well
+                and had sponsors approach us for creating behavioural chat bots. Over time,
+                 the company split into two teams: one focusing on Large Language Models
+                  and the other on quantum physics. OpenQQuantify is the result of that. We leverage AI to bridge the gaps in between
+                  Electronics and the community.
+                  BOTH OPEN and CLOSED SOURCE. OpenQQuantify collects comprehensive data on all aspects of the supply chain,
+                  from sourcing to distribution,
+                  utilizing advanced analytics and AI algorithms to optimize operations.
+LLM Solution
+OpenQQuantify introduces a groundbreaking solution leveraging Large Language Models (LLMs) for electronics design.
+                Our integrated approach revolutionizes conceptualization, design,
+                and validation processes in electronics development. Incorporating advanced LLMs such as GPT-4, LLaMA,
+                 and Mistral for innovative design solutions.
+                 A pivotal intermediary translating design concepts into actionable electronic schematics and code.
+                 Simulating electronic circuits with precision and efficiency across diverse conditions and configurations.
+                 LLMs evolve through feedback loops, ensuring continuous improvement and alignment with project goals.
+2D Schematic Generation Solution
+OpenQQuantify presents a Schematic Generation solution that leverages a large language model to automate and enhance the development of detailed 2D schematics for electronics.
+                Our solution includes an advanced system for ranking and displaying components and logic based on user-defined parameters and prompts.
+                The Key components are Advanced text analysis,
+                Contextual understanding,
+                Relevance scoring,
+                Graphical output and
+                Detailed report generation
+3D Game Engine Simulation Solution
+Utilize Nvidia Omniverse & GoDot (open-source)
+                We develop game engines with physics logic for the development of
+                electronics and their simulation within different environments such as
+                Ideal environments,
+                Space,
+                Earth,
+                Underwater,
+                Within machinery,
+                Manufacturing,
+                Sustainable Material and
+                Semiconductive Materials. Need a device with peripheral sensor created and simulated in real time?
+                We have synthetic data generation mechanisms to simulate sensor functionality and methods for developing
+                whole embedded device pipelines without having to buy the components!
+                We have real-time synthetic data streams
+                And batches that we offer for all types of cutting edge sensors.
+OpenQQuantify
+Meet Our Team
+Venkata Samboju (Manager)
+Hi team, I'm Venkata Sai Teja Samboju, graduate student at the University of Florida. I have expertise with web development and mobile app development. I am passionate about exploring the intersection of web development and large language models, leveraging cutting-edge technologies to create innovative and efficient solutions. Looking to collaborate and contribute to OpenQQuantify team.
+Tianren Zhang (Dev)
+A solid software engineer with a strong background in full-stack application development. Keen on learning new technologies and enjoys snowboarding and hiking.
+Pedro Silverio (Dev)
+Where Innovation Meets Dedication, Hello Yall! My name is Pedro Silverio, and I am on a mission to make a positive impact on the digital world! I am a Computer Science Graduate from Georgia State University Who Has A Passion For Building Web Apps. I Have Used Spring Boot And Postgresql In Combination With Front-End And Database Technologies during my journey in the realm of software engineering. I Am Eager To Use My Skills And Learn Even More In A Professional Environment and to make a difference. I don't have anything too exciting to share other than that I regularly engage in reading books and articles, and I enjoy a walk in the park every once in a while, I encourage others to explore these activities, it could change your life!
+Joey Normil (Dev)
+A dedicated software developer with a passion for coding, innovation, and problem-solving. Currently pursuing a BS in Computer Science at the University at Buffalo, he strives to create impactful solutions with software.
+Arpan Shah (Dev)
+Software Engineer focused on data collection and processing. Arpan is constantly striving to improve himself and provide impact in a variety of ways. In his free time, he enjoys watching and playing basketball
+Harsha Vardhan (Dev)
+Dynamic computer science professional with a Master's degree from the University of Florida. He has extensive experience in web application development, microservices, and cloud technologies, gained through roles at the University of Florida, Invent.US, and Tata Consultancy Services. Harsha has a proven track record of optimizing performance and enhancing security in software solutions.
+Dhruv Suryavanshi (Manager)
+Devoted to utilizing data to solve complex problems and create humongous value for businesses and society.
+Michelle (Outreach)
+Hi everyone! My name is Michelle Lamelza, a vibrant professional with a unique blend of creativity and scientific curiosity. My academic journey began with a BA in Theater Arts and Exercise/Sport Science from Columbia University, complemented by post-baccalaureate studies in Chemistry. This eclectic education has equipped me with a dynamic perspective and a flair for innovation.
+                My roots are in the performing arts and fitness, where I honed my skills in teamwork, communication, and adaptability. Transitioning from the stage to the service industry, I have always been driven by a passion for connecting with people and delivering exceptional experiences.
+                Embracing the tech world, I have recently completed a rigorous 10-month Full Stack Engineering bootcamp, which has ignited a new passion for technology and problem-solving. Joining OpenQQuantify as an intern, I'm eager to blend my artistic vision with technical prowess to contribute to groundbreaking projects.
+                I believe that my diverse background is not just an asset but a testament to my ability to thrive in multifaceted environments. I'm thrilled and grateful to embark on this new journey and look forward to growing with the OpenQQuantify team!
+Paul George Savluc
+Founder of OpenQQuantify and Tomorrow's AI. Paul wants to see technology being leveraged to achieve a better and more advanced and safe community. Everything from healthcare, agriculture, to defense can be improved through technology. OpenQQuantify leverages AI for both the open-source and closed-source community to achieve better overall design and performance as well as an educated community.
+Adam Karabin
+Research engineer trying to apply technology to reduce distractions so that people can focus on the more important things.
+Ron (Database)
+Brings counterintelligence experience as well as healthcare experience he is also on our sensors development team.
+Nyneka (Manager)
+My name is Nyneka Myers, and I have dedicated a significant portion of my career to mastering team management and building strong workplace foundations. As a leader, I excel in managing quality individuals on IT projects, including those involving generative AI. My passion lies in developing new teams and fostering environments where innovation and collaboration thrive. I invite strong, experienced leaders to join me in innovating with the freedom and creativity necessary to develop experts for tomorrow's future.

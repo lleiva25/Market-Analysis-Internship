@@ -1,0 +1,33 @@
+Field name,Data type,Description,Field type
+idx,object,Unique record ID automatically generated during data processing.,Internally generated during data processing.
+ business_name,object,Business name.,Provided as is from original data.
+ alt_business_name,object,Alternative business name.,Provided as is from original data.
+ business_sector,object,Business sector.,Provided as is from original data.
+ business_subsector,object,Business subsector.,Provided as is from original data.
+ business_description,object,Description of the business.,Provided as is from original data.
+ business_id_no,float64,Business identification number.,Provided as is from original data.
+ licence_number,float64,Licence identification number.,Provided as is from original data.
+ licence_type,object,Category of licence.,Provided as is from original data.
+ derived_NAICS,float64,Two digit NAICS code. ,Provided as is from original data or derived from NAICS description data.
+ source_NAICS_primary,float64,Two to six digit NAICS identification number.,Provided as is from original data.
+ source_NAICS_secondary,float64,Secondary two to six digit NAICS identification number .,Provided as is from original data.
+ NAICS_descr,object,NAICS code description. ,Provided as is from original data.
+ NAICS_descr2,object,Secondary NAICS code description. ,Provided as is from original data.
+ latitude,float64,Latitude.,Provided as is from original data. 
+ longitude,float64,Longitude.,Provided as is from original data. 
+ full_address,object,Full address of business. ,A combination of address components or provided as is. 
+ postal_code,object,Postal Code.,Parsed from a full address object or provided as is. 
+ unit,object,Civic unit or suite number. ,Parsed from a full address object or provided as is.
+ street_no,object,Civic street number.,Parsed from a full address object or provided as is.
+ street_name,object,Civic street name.,Parsed from a full address object or provided as is.
+ street_direction,object,Civic street direction.,Parsed from a full address object or provided as is.
+ street_type,object,Civic street type.,Parsed from a full address object or provided as is. 
+ city,object,Municipality name. ,Parsed from a full address object or provided as is
+ prov_terr,object,Province or territory code.,Converted to two letter codes after parsing from a full address object or indicated by providers.
+ total_no_employees,integer,Total number of employees. ,Provided as is from original data.
+ status,object,"Statuts of business licence (e.g., Active, Pending, etc.).",Standardized from original data. 
+ provider,object,Name of the entity that provided the dataset. ,Created based on origins of input dataset. 
+ geo_source,object,"An indication of whether the latitude and longitude were provided in the original source, or if they were geocoded for the ODBus.",Created based on origins of geocoordinates. 
+ CSDUID,float64,Census subdivision unique identifier. ,Imputed from either geographic coordinates or CSD name using GeoSuite 2021. 
+ CSDNAME,object,Census subdivision name.,Imputed from geographic coordinates and city names using GeoSuite 2021. 
+ PRUID,int64,Province unique identifier. ,Converted from province code.

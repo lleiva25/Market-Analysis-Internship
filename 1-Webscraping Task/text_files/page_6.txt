@@ -1,0 +1,22 @@
+Supply Chain Data
+Supply Chain Data
+ID
+Component Genre
+Mfr Part #
+DK Part #
+Supplier
+Mfr
+Product Status
+Price
+Previous
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Next
